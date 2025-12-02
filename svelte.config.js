@@ -9,7 +9,7 @@ const config = {
 			precompress: false
 		}),
 		paths: {
-			base: ""
+			base: "/web"
 		},
 		csp: {
 			mode: "hash",
